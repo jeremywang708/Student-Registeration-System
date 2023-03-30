@@ -1,4 +1,4 @@
-
+/*
 ****************************************************************************
 Function Name: main
 Purpose: To run the main registration system program by initializing the necessary variables, registering students and courses, and calling the menu function repeatedly until the user chooses to exit.
