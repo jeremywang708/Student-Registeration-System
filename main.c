@@ -1,32 +1,4 @@
-/*
-* Title: Assignment #1 - Student Registration System
-* Course: CST8234 C Language
-* @Author: <<< Yun Wang - 041069121 >>>
-* Lab Section: 012
-* Professor: Surbhi Bahri
-* Due date: 03/12/2023
-* Submission date: 03/12/2023
 
-* Requirement #1: {complete}
-* Requirement #2: {complete}
-* Requirement #3: {complete}
-* Requirement #4: {complete}
-* Requirement #5: {complete}
-* Requirement #6: {complete}
-* Requirement #7: {complete}
-* Requirement #8: {complete}
-* Requirement #9: {complete}
-* Requirement #10: {complete}
-* Requirement #11: {complete}
-* Requirement #12: {complete}
-* Requirement #13: {complete}
-*/
-#include <stdio.h>
-#include "student.h"
-#include "course.h"
-#include "menu.h"
-
-/*
 ****************************************************************************
 Function Name: main
 Purpose: To run the main registration system program by initializing the necessary variables, registering students and courses, and calling the menu function repeatedly until the user chooses to exit.
